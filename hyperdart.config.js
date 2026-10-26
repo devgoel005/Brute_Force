@@ -48,5 +48,5 @@ export default {
 		description: "Explore tourist attractions, landmarks, museums, and points of interest with interactive day plans, weather forecasts, and responsive maps."
 	},
 	github: "https://github.com/devgoel005/Brute_Force",
-	demovideo: "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+	demovideo: "https://youtu.be/4fgjnw9s-XY"
 }

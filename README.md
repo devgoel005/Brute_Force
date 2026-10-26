@@ -140,7 +140,7 @@ Expected output:
 Before publishing, ensure your GitHub repository URL and YouTube demo link are updated in `hyperdart.config.js`:
 ```js
 github: "https://github.com/devgoel005/Brute_Force",
-demovideo: "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+demovideo: "https://youtu.be/4fgjnw9s-XY"
 ```
 
 Then publish:
