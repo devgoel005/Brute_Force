@@ -1,0 +1,470 @@
+[
+  {
+    "component": "tourism",
+    "query": "gurgaon",
+    "entities": [
+      {
+        "word": "Gurgaon",
+        "collectionName": "CITIES",
+        "collectionType": "HD_LOCATION",
+        "entityInfo": {
+          "geo": {
+            "tz": "Asia/Kolkata",
+            "lat": 28.4595,
+            "city": "Gurgaon",
+            "long": 77.0266,
+            "state": "Haryana",
+            "country": "India",
+            "countryCode": "IN"
+          }
+        },
+        "entityType": "LOCATION",
+        "description": "technology and financial hub in Haryana, India",
+        "relevanceScore": 100
+      }
+    ],
+    "keyword": [{ "word": "places to visit", "description": "" }],
+    "genericQuery": "HD_LOCATION__CITIES",
+    "userLocation": {
+      "position": {
+        "coords": { "latitude": 28.4595, "longitude": 77.0266 },
+        "city": "Gurgaon",
+        "countryCode": "IN"
+      },
+      "source": "ip"
+    },
+    "suggestedPlace": "mainline"
+  },
+  {
+    "component": "tourism",
+    "query": "things to do in gurgaon",
+    "entities": [
+      {
+        "word": "Gurgaon",
+        "collectionName": "CITIES",
+        "collectionType": "HD_LOCATION",
+        "entityInfo": {
+          "geo": {
+            "tz": "Asia/Kolkata",
+            "lat": 28.4595,
+            "city": "Gurgaon",
+            "long": 77.0266,
+            "state": "Haryana",
+            "country": "India",
+            "countryCode": "IN"
+          }
+        },
+        "entityType": "LOCATION",
+        "description": "technology and financial hub in Haryana, India",
+        "relevanceScore": 100
+      }
+    ],
+    "keyword": [{ "word": "things to do", "description": "" }],
+    "genericQuery": "things to do in HD_LOCATION__CITIES",
+    "userLocation": {
+      "position": {
+        "coords": { "latitude": 28.4595, "longitude": 77.0266 },
+        "city": "Gurgaon",
+        "countryCode": "IN"
+      },
+      "source": "ip"
+    },
+    "suggestedPlace": "mainline"
+  },
+  {
+    "component": "tourism",
+    "query": "kurukshetra",
+    "entities": [
+      {
+        "word": "Kurukshetra",
+        "collectionName": "CITIES",
+        "collectionType": "HD_LOCATION",
+        "entityInfo": {
+          "geo": {
+            "tz": "Asia/Kolkata",
+            "lat": 29.9695,
+            "city": "Kurukshetra",
+            "long": 76.8783,
+            "state": "Haryana",
+            "country": "India",
+            "countryCode": "IN"
+          }
+        },
+        "entityType": "LOCATION",
+        "description": "historic city in Haryana, India",
+        "relevanceScore": 100
+      }
+    ],
+    "keyword": [{ "word": "places to visit", "description": "" }],
+    "genericQuery": "HD_LOCATION__CITIES",
+    "userLocation": {
+      "position": {
+        "coords": { "latitude": 29.9695, "longitude": 76.8783 },
+        "city": "Kurukshetra",
+        "countryCode": "IN"
+      },
+      "source": "ip"
+    },
+    "suggestedPlace": "mainline"
+  },
+  {
+    "component": "tourism",
+    "query": "new york",
+    "entities": [
+      {
+        "word": "New York",
+        "collectionName": "CITIES",
+        "collectionType": "HD_LOCATION",
+        "entityInfo": {
+          "geo": {
+            "tz": "America/New_York",
+            "lat": 40.7128,
+            "city": "New York City",
+            "long": -74.0060,
+            "state": "New York",
+            "country": "United States",
+            "countryCode": "US"
+          }
+        },
+        "entityType": "LOCATION",
+        "description": "largest city in the United States",
+        "relevanceScore": 100
+      }
+    ],
+    "keyword": [{ "word": "tourist attractions", "description": "" }],
+    "genericQuery": "HD_LOCATION__CITIES",
+    "userLocation": {
+      "position": {
+        "coords": { "latitude": 40.7128, "longitude": -74.0060 },
+        "city": "New York City",
+        "countryCode": "US"
+      },
+      "source": "ip"
+    },
+    "suggestedPlace": "mainline"
+  },
+  {
+    "component": "tourism",
+    "query": "newyork",
+    "entities": [
+      {
+        "word": "New York",
+        "collectionName": "CITIES",
+        "collectionType": "HD_LOCATION",
+        "entityInfo": {
+          "geo": {
+            "tz": "America/New_York",
+            "lat": 40.7128,
+            "city": "New York City",
+            "long": -74.0060,
+            "state": "New York",
+            "country": "United States",
+            "countryCode": "US"
+          }
+        },
+        "entityType": "LOCATION",
+        "description": "largest city in the United States",
+        "relevanceScore": 100
+      }
+    ],
+    "keyword": [{ "word": "tourist attractions", "description": "" }],
+    "genericQuery": "HD_LOCATION__CITIES",
+    "userLocation": {
+      "position": {
+        "coords": { "latitude": 40.7128, "longitude": -74.0060 },
+        "city": "New York City",
+        "countryCode": "US"
+      },
+      "source": "ip"
+    },
+    "suggestedPlace": "mainline"
+  },
+  {
+    "component": "tourism",
+    "query": "things to do in india",
+    "entities": [
+      {
+        "word": "India",
+        "collectionName": "COUNTRIES",
+        "collectionType": "HD_LOCATION",
+        "entityInfo": {
+          "geo": {
+            "tz": "Asia/Kolkata",
+            "lat": 28.6139,
+            "city": "New Delhi",
+            "long": 77.2090,
+            "state": "Delhi",
+            "country": "India",
+            "countryCode": "IN"
+          }
+        },
+        "entityType": "LOCATION",
+        "description": "country in South Asia",
+        "relevanceScore": 100
+      }
+    ],
+    "keyword": [{ "word": "things to do", "description": "" }],
+    "genericQuery": "things to do in HD_LOCATION__COUNTRIES",
+    "userLocation": {
+      "position": {
+        "coords": { "latitude": 28.6139, "longitude": 77.2090 },
+        "city": "New Delhi",
+        "countryCode": "IN"
+      },
+      "source": "ip"
+    },
+    "suggestedPlace": "mainline"
+  },
+  {
+    "component": "tourism",
+    "query": "india",
+    "entities": [
+      {
+        "word": "India",
+        "collectionName": "COUNTRIES",
+        "collectionType": "HD_LOCATION",
+        "entityInfo": {
+          "geo": {
+            "tz": "Asia/Kolkata",
+            "lat": 28.6139,
+            "city": "New Delhi",
+            "long": 77.2090,
+            "state": "Delhi",
+            "country": "India",
+            "countryCode": "IN"
+          }
+        },
+        "entityType": "LOCATION",
+        "description": "country in South Asia",
+        "relevanceScore": 100
+      }
+    ],
+    "keyword": [{ "word": "tourism", "description": "" }],
+    "genericQuery": "HD_LOCATION__COUNTRIES",
+    "userLocation": {
+      "position": {
+        "coords": { "latitude": 28.6139, "longitude": 77.2090 },
+        "city": "New Delhi",
+        "countryCode": "IN"
+      },
+      "source": "ip"
+    },
+    "suggestedPlace": "mainline"
+  },
+  {
+    "component": "tourism",
+    "query": "Tourist attractions in NYC",
+    "entities": [
+      {
+        "word": "NYC",
+        "collectionName": "CITIES",
+        "collectionType": "HD_LOCATION",
+        "entityInfo": {
+          "geo": {
+            "tz": "America/New_York",
+            "lat": 40.71427,
+            "city": "New York City",
+            "long": -74.00597,
+            "state": "New York",
+            "country": "United States",
+            "countryCode": "US"
+          }
+        },
+        "entityType": "LOCATION",
+        "description": "largest city in the United States",
+        "relevanceScore": 100
+      }
+    ],
+    "keyword": [{ "word": "tourist attractions", "description": "" }],
+    "genericQuery": "tourist attractions in HD_LOCATION__CITIES",
+    "userLocation": {
+      "position": {
+        "coords": { "latitude": 26.4631, "longitude": 80.3479 },
+        "city": "Kanpur",
+        "countryCode": "IN"
+      },
+      "source": "ip"
+    },
+    "suggestedPlace": "sidebar"
+  },
+  {
+    "component": "tourism",
+    "query": "Things to do in Paris",
+    "entities": [
+      {
+        "word": "Paris",
+        "collectionName": "CITIES",
+        "collectionType": "HD_LOCATION",
+        "entityInfo": {
+          "geo": {
+            "tz": "Europe/Paris",
+            "lat": 48.8566,
+            "city": "Paris",
+            "long": 2.3522,
+            "state": "Île-de-France",
+            "country": "France",
+            "countryCode": "FR"
+          }
+        },
+        "entityType": "LOCATION",
+        "description": "capital of France",
+        "relevanceScore": 100
+      }
+    ],
+    "keyword": [{ "word": "things to do", "description": "" }],
+    "genericQuery": "things to do in HD_LOCATION__CITIES",
+    "userLocation": {
+      "position": {
+        "coords": { "latitude": 48.8566, "longitude": 2.3522 },
+        "city": "Paris",
+        "countryCode": "FR"
+      },
+      "source": "ip"
+    },
+    "suggestedPlace": "mainline"
+  },
+  {
+    "component": "tourism",
+    "query": "museums in Delhi",
+    "entities": [
+      {
+        "word": "Delhi",
+        "collectionName": "CITIES",
+        "collectionType": "HD_LOCATION",
+        "entityInfo": {
+          "geo": {
+            "tz": "Asia/Kolkata",
+            "lat": 28.6139,
+            "city": "New Delhi",
+            "long": 77.2090,
+            "state": "Delhi",
+            "country": "India",
+            "countryCode": "IN"
+          }
+        },
+        "entityType": "LOCATION",
+        "description": "capital territory of India",
+        "relevanceScore": 100
+      }
+    ],
+    "keyword": [{ "word": "museums", "description": "" }],
+    "genericQuery": "museums in HD_LOCATION__CITIES",
+    "userLocation": {
+      "position": {
+        "coords": { "latitude": 28.6139, "longitude": 77.2090 },
+        "city": "New Delhi",
+        "countryCode": "IN"
+      },
+      "source": "ip"
+    },
+    "suggestedPlace": "sidebar"
+  },
+  {
+    "component": "tourism",
+    "query": "best places to visit in Kurukshetra",
+    "entities": [
+      {
+        "word": "Kurukshetra",
+        "collectionName": "CITIES",
+        "collectionType": "HD_LOCATION",
+        "entityInfo": {
+          "geo": {
+            "tz": "Asia/Kolkata",
+            "lat": 29.9695,
+            "city": "Kurukshetra",
+            "long": 76.8783,
+            "state": "Haryana",
+            "country": "India",
+            "countryCode": "IN"
+          }
+        },
+        "entityType": "LOCATION",
+        "description": "historic city in Haryana, India",
+        "relevanceScore": 100
+      }
+    ],
+    "keyword": [{ "word": "places to visit", "description": "" }],
+    "genericQuery": "places to visit in HD_LOCATION__CITIES",
+    "userLocation": {
+      "position": {
+        "coords": { "latitude": 29.9695, "longitude": 76.8783 },
+        "city": "Kurukshetra",
+        "countryCode": "IN"
+      },
+      "source": "ip"
+    },
+    "suggestedPlace": "mainline"
+  },
+  {
+    "component": "tourism",
+    "query": "Landmarks in Rome",
+    "entities": [
+      {
+        "word": "Rome",
+        "collectionName": "CITIES",
+        "collectionType": "HD_LOCATION",
+        "entityInfo": {
+          "geo": {
+            "tz": "Europe/Rome",
+            "lat": 41.9028,
+            "city": "Rome",
+            "long": 12.4964,
+            "state": "Lazio",
+            "country": "Italy",
+            "countryCode": "IT"
+          }
+        },
+        "entityType": "LOCATION",
+        "description": "capital city of Italy",
+        "relevanceScore": 100
+      }
+    ],
+    "keyword": [{ "word": "landmarks", "description": "" }],
+    "genericQuery": "landmarks in HD_LOCATION__CITIES",
+    "userLocation": {
+      "position": {
+        "coords": { "latitude": 41.9028, "longitude": 12.4964 },
+        "city": "Rome",
+        "countryCode": "IT"
+      },
+      "source": "ip"
+    },
+    "suggestedPlace": "mainline"
+  },
+  {
+    "component": "tourism",
+    "query": "Sights near Tokyo",
+    "entities": [
+      {
+        "word": "Tokyo",
+        "collectionName": "CITIES",
+        "collectionType": "HD_LOCATION",
+        "entityInfo": {
+          "geo": {
+            "tz": "Asia/Tokyo",
+            "lat": 35.6762,
+            "city": "Tokyo",
+            "long": 139.6503,
+            "state": "Kanto",
+            "country": "Japan",
+            "countryCode": "JP"
+          }
+        },
+        "entityType": "LOCATION",
+        "description": "capital of Japan",
+        "relevanceScore": 100
+      }
+    ],
+    "keyword": [{ "word": "sights", "description": "" }],
+    "genericQuery": "sights near HD_LOCATION__CITIES",
+    "userLocation": {
+      "position": {
+        "coords": { "latitude": 35.6762, "longitude": 139.6503 },
+        "city": "Tokyo",
+        "countryCode": "JP"
+      },
+      "source": "ip"
+    },
+    "suggestedPlace": "mainline"
+  }
+]

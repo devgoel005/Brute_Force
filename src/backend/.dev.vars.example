@@ -1,0 +1,2 @@
+# Cloudflare Worker Backend Local Secrets (do NOT commit your real key)
+GEOAPIFY_API_KEY=your_geoapify_api_key_here
